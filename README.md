@@ -1,6 +1,8 @@
 # Hora de Codar mas em Java
 Vamos começar da Lógica de Programação Básica
 
+Hora de Codar 1
+
 <h2>1 - Baby Steps</h2>
 Escreva um programa em Java e crie uma variável chamada "Planeta" e atribua-a um valor "Plutão". 
 Exiba o valor para o usuário.
